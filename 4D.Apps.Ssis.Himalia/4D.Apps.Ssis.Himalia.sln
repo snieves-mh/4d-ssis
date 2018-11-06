@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "4D.Apps.Ssis.Himalia", "4D.Apps.Ssis.Himalia\4D.Apps.Ssis.Himalia.dtproj", "{AE7EE70B-38D9-413B-BCA9-AA5D2F9EF246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7EE70B-38D9-413B-BCA9-AA5D2F9EF246}.Development|Default.ActiveCfg = Development
+		{AE7EE70B-38D9-413B-BCA9-AA5D2F9EF246}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD23DB59-4FE1-4079-B46E-F6E42D050CEF}
+	EndGlobalSection
+EndGlobal
