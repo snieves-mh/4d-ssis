@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>4D.Apps.Ssis.Himalia</Name>
-    <LastWriteTime>2018-11-02T02:28:07.6375548Z</LastWriteTime>
+    <LastWriteTime>2018-11-06T07:22:05.4143603Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,12 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>199PharmacyNetworks.dtsx</Name>
-      <LastWriteTime>2018-11-05T17:17:08.3213689Z</LastWriteTime>
+      <LastWriteTime>2018-11-05T23:16:55.5753148Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>RxNovaPharmacyNetworks.dtsx</Name>
+      <LastWriteTime>2018-11-06T07:22:00.7664091Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
